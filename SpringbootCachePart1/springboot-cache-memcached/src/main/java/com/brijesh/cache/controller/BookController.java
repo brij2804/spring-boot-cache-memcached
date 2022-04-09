@@ -1,7 +1,6 @@
 package com.brijesh.cache.controller;
 
 import com.brijesh.cache.beans.Book;
-import com.brijesh.cache.component.AppRunner;
 import com.brijesh.cache.repository.BookRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
