@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springboot-cache-memcached
+
+server:
+  port: 8080
