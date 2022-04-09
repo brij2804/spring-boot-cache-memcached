@@ -1,4 +1,7 @@
 package com.brijesh.cache.repository;
 
-public class BookRepository {
+import com.brijesh.cache.beans.Book;
+
+public interface BookRepository {
+    Book getByIsbn(String isbn);
 }
