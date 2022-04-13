@@ -13,3 +13,6 @@ This project contains springboot cache code.
 
 ## Concepts
 - Cache Annotations
+
+## URLs
+- http://localhost:8080/getBooks
